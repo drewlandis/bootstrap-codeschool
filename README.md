@@ -2,14 +2,7 @@
 This project to be used for learning Bootstrap.  It follows along with a bootstrap class found at [codeschool.com](codeschool.com)
 
 # View
-You can view the different versions here.
- - [v1](file:///learning/bootstrap-codeschool/v1.html)
- - [v2](file:///learning/bootstrap-codeschool/v2.html)
- - [v3](file:///learning/bootstrap-codeschool/v3.html)
- - [v4](file:///learning/bootstrap-codeschool/v4.html)
- - [v5](file:///learning/bootstrap-codeschool/v5.html)
- - [v6](file:///learning/bootstrap-codeschool/v6.html)
- - [v7](file:///learning/bootstrap-codeschool/v7.html)
+You can view the 7 different versions by downloading this repo, `npm i`ing, and navigating to v1 - v7 of this file in your local file system: file:///learning/bootstrap-codeschool/v7.html
 
 # Helpful Links
  - [Bootstrap](http://getbootstrap.com/)
