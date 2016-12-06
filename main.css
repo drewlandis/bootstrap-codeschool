@@ -1,0 +1,11 @@
+.features .glyphicon {
+  font-size: 32px;
+  color: red;
+}
+.footer {
+  background-color: #3d3c3c;
+  color: white;
+}
+.footer a {
+  color: turquoise;
+}

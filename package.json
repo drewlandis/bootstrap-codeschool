@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-codeschool",
+  "version": "1.0.0",
+  "description": "repo for learning bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Drew Landis",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
